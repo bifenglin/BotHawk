@@ -1,0 +1,18 @@
+Feature,Feature Importance
+Periodicity of Activities,0.08612836438923399
+Median Response Time,0.00538302277432714
+following,0.006211180124223637
+Number of Connection Account,0.018219461697722573
+Number of Commit,0.032298136645962726
+Number of Repository,0.00041407867494824835
+Number of Pull Request,-0.0020703933747412417
+Number of Issue,0.07329192546583851
+Number of Activity,0.0
+followers,0.0
+name,0.0
+email,0.0
+bio,0.0
+Number of Active day,0.018219461697722573
+tag,-0.02650103519668736
+tfidf_similarity,-0.0016563146997929934
+login,-0.007039337474120067

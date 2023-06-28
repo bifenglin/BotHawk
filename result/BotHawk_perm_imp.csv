@@ -1,0 +1,18 @@
+Feature,Feature Importance
+Number of followers,0.07577639751552794
+Number of Connection Account,0.0033126293995858758
+Number of Activity,0.004554865424430621
+Number of Commit,0.016149068322981353
+Number of Repository,0.03892339544513459
+Number of following,-0.001242236024844745
+Number of Pull Request,0.0
+Number of Issue,0.09730848861283643
+name,0.0
+email,0.0
+Median Response Time,0.0
+bio,0.0
+Periodicity of Activities,0.013443162322984781
+tag,0.09772256728778468
+login,0.021118012422360243
+tfidf_similarity,-0.00041407867494824835
+Number of Active day,0.015320910973084856
